@@ -1,0 +1,31 @@
+{ "movies": [
+  {
+    "name" : "Inception",
+    "year": 2010,
+    "genre": "Adventure",
+    "rating": 8.8,
+    "actors": ["Leonardo DiCaprio","Joseph Gordon-Levitt","Elliot Page"]
+  },
+  {
+    "name" : "Matrix",
+    "year": 1999,
+    "genre": "Action",
+    "rating": 8.2,
+    "actors": ["Keanu Reeves","Laurence Fishburne","Carrie-Anne Moss"]
+  },
+  {
+    "name" : "13th floor",
+    "year": 1999,
+    "rating": 8.1,
+    "genre": "Thriller",
+    "actors": ["Craig Bierko","Gretchen Mol","Armin Mueller-Stahl"]
+  },
+  {
+    "name" : "Oldeuboi",
+    "year": 2003,
+    "genre": "Для всей семьи",
+    "rating": 8.4,
+    "actors": ["Choi Min-sik","Yoo Ji-tae","Kang Hye-jeong"]
+  }
+]
+}
